@@ -10,7 +10,7 @@
 ---
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Adielson-Cordeiro&theme=highcontrast&show_icons=truelocale=pt-br) 
-<img alt="gif linux" height="190px" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif">
+<img align="right" alt="gif linux" height="190px" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif">
 
 
 ---
